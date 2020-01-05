@@ -1,6 +1,6 @@
 ## Tentative Class Schedule
 ---
- This is the tentative class schedule. Instructor reserves the right to modify it. Please check back regularly. 
+ This is a tentative class schedule. Instructor reserves the right to modify it. Please check back regularly. 
  
  NOTE: Lecture slides and supplementary notes will be posted on D2L. 
 
