@@ -19,23 +19,23 @@
 | 6  | 2/10/2020  | 10. Hadoop programming examples                   |
 |    | 2/12/2020  | 11. Hadoop I/O                                    |
 | 7  | 2/17/2020  | 12. Hadoop distributed caching, chaining, streaming  |
-|    | 2/19/2020  | 13. Database querying (noSQL)                     |
-| 8  | 2/24/2020  | 14. Database querying (SQL)                       | 
+|    | 2/19/2020  | 13. Regression                     |
+| 8  | 2/24/2020  | 14. Classification                 | 
 |    | 2/26/2020  | Midterm Exam      |
 |    | 3/2/2020   | Spring break      |
 |    | 3/4/2020   | Spring break      |
-| 9  | 3/9/2020   | 15. Pig  |
-|    | 3/11/2020  | 16. Pig  |
-| 10 | 3/16/2020  | 17. Hive  |
-|    | 3/18/2020  | 18. Hive  |
-| 11 | 3/23/2020  | 19. Regression  |
-|    | 3/25/2020  | 20. Classification        |
-| 12 | 3/30/2020  | 21. Classification        |
-|    | 4/1/2020   | 22. Cluster Analysis      |
-| 13 | 4/6/2020   | 23. Cluster Analysis      |
-|    | 4/8/2020   | 24. Association Analysis  | 
-| 14 | 4/13/2020  | 25. Anomaly detection     |
-|    | 4/15/2020  | 26. Collaborative filtering  |
+| 9  | 3/9/2020   | 15. Classification |
+|    | 3/11/2020  | 16. Cluster Analysis |
+| 10 | 3/16/2020  | 17. Cluster Analysis |
+|    | 3/18/2020  | 18. Association Analysis    |
+| 11 | 3/23/2020  | 19. Anomaly Detection       |
+|    | 3/25/2020  | 20. Collaborative Filtering        |
+| 12 | 3/30/2020  | 21. Database querying (SQL)        |
+|    | 4/1/2020   | 22. Database querying (noSQL)      |
+| 13 | 4/6/2020   | 23. Pig      |
+|    | 4/8/2020   | 24. Pig      | 
+| 14 | 4/13/2020  | 25. Hive     |
+|    | 4/15/2020  | 26. Hive     |
 | 15 | 4/20/2020  | 27. Spark    |
 |    | 4/22/2020  | 28. Spark    |
 | 16 | 4/30/2020  | Final Exam (Thursday, 8:00-9:30am) | |
