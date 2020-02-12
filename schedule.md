@@ -17,8 +17,8 @@
 | 5  | 2/3/2020   | 8. Hadoop (introduction)                          |
 |    | 2/5/2020   | 9. Hadoop programming concepts                    |
 | 6  | 2/10/2020  | 10. Hadoop programming examples                   |
-|    | 2/12/2020  | 11. Hadoop I/O                                    |
-| 7  | 2/17/2020  | 12. Hadoop distributed caching, chaining, streaming  |
+|    | 2/12/2020  | 11. Hadoop programming examples                   |
+| 7  | 2/17/2020  | 12. Hadoop I/O and streaming  |
 |    | 2/19/2020  | 13. Regression                     |
 | 8  | 2/24/2020  | 14. Classification                 | 
 |    | 2/26/2020  | Midterm Exam      |
