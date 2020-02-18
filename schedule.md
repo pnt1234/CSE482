@@ -19,15 +19,15 @@
 | 6  | 2/10/2020  | 10. Hadoop programming examples                   |
 |    | 2/12/2020  | 11. Hadoop programming examples                   |
 | 7  | 2/17/2020  | 12. Hadoop I/O and streaming  |
-|    | 2/19/2020  | 13. Regression                     |
-| 8  | 2/24/2020  | 14. Classification                 | 
+|    | 2/19/2020  | 13. Hadoop I/O and streaming  |
+| 8  | 2/24/2020  | 14. Regression                 | 
 |    | 2/26/2020  | Midterm Exam      |
 |    | 3/2/2020   | Spring break      |
 |    | 3/4/2020   | Spring break      |
 | 9  | 3/9/2020   | 15. Classification |
-|    | 3/11/2020  | 16. Cluster Analysis |
+|    | 3/11/2020  | 16. Classification |
 | 10 | 3/16/2020  | 17. Cluster Analysis |
-|    | 3/18/2020  | 18. Association Analysis    |
+|    | 3/18/2020  | 18. Cluster Analysis    |
 | 11 | 3/23/2020  | 19. Anomaly Detection       |
 |    | 3/25/2020  | 20. Collaborative Filtering        |
 | 12 | 3/30/2020  | 21. Database querying (SQL)        |
