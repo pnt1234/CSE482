@@ -24,14 +24,14 @@
 |    | 2/26/2020  | Midterm Exam      |
 |    | 3/2/2020   | Spring break      |
 |    | 3/4/2020   | Spring break      |
-| 9  | 3/9/2020   | 15. Classification |
+| 9  | 3/9/2020   | 15. Regression |
 |    | 3/11/2020  | 16. Classification |
-| 10 | 3/16/2020  | 17. Cluster Analysis |
+| 10 | 3/16/2020  | 17. Classification |
 |    | 3/18/2020  | 18. Cluster Analysis    |
-| 11 | 3/23/2020  | 19. Anomaly Detection       |
-|    | 3/25/2020  | 20. Collaborative Filtering        |
-| 12 | 3/30/2020  | 21. Database querying (SQL)        |
-|    | 4/1/2020   | 22. Database querying (noSQL)      |
+| 11 | 3/23/2020  | 19. Cluster Analysis       |
+|    | 3/25/2020  | 20. Anomaly Detection        |
+| 12 | 3/30/2020  | 21. Collaborative Filtering        |
+|    | 4/1/2020   | 22. Database querying (SQL)      |
 | 13 | 4/6/2020   | 23. Pig      |
 |    | 4/8/2020   | 24. Pig      | 
 | 14 | 4/13/2020  | 25. Hive     |
