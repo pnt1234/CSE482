@@ -38,4 +38,3 @@
 |    | 4/15/2020  | 26. Hive     |
 | 15 | 4/20/2020  | 27. Apache Spark    |
 |    | 4/22/2020  | 28. Apache Spark    |
-| 16 | 4/30/2020  | Final Exam (Thursday, 8:00-9:30am) | |
