@@ -16,7 +16,7 @@ This course is intended for senior undergraduate students who are interested to 
 
 There is no main textbook for the class. Lecture notes will be posted on D2L. You may use the following reference books for some of the topics covered in this class.
 -	Introduction to Data Mining (Pang-Ning Tan, Michael Steinbach, Anuj Karpatne, and Vipin Kumar), 2nd Edition, Addison Wesley, 2018. Sample chapters are available [here](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php).
--	Mining of Massive Datasets (Anand Rajaraman, Jeff Ullman), 3rd Edition, Cambridge University Press, 2020. Draft chapters from the book are available [here](http://www.mmds.org/).
+-	Mining of Massive Datasets (Jure Leskovec, Anand Rajaraman, Jeff Ullman), 3rd Edition, Cambridge University Press, 2020. Draft chapters from the book are available [here](http://www.mmds.org/).
 -	Hadoop: The Definitive Guide (Tom White), O’Reilly Media, Fourth Edition, 2015.
 -	Python for Data Analysis: Data Wrangling with Pandas, Numpy, and iPython (Wes McKinney), 2nd Edition, O’Reilly, 2017.
 
