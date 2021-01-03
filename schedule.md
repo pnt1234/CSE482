@@ -20,7 +20,7 @@
 |    | 2/17/2021  | 9. Hadoop programming concepts  |
 | 7  | 2/22/2021  | 10. Hadoop programming examples  |
 |    | 2/24/2021  | 11. Hadoop streaming  |
-| 8  | 3/1/2021  | Midterm exam  | 
+| 8  | 3/1/2021  | Exam  | 
 |    | 3/3/2021  | No class      |
 | 9  | 3/8/2021   | 12. Regression analysis   |
 |    | 3/10/2021  | 13. Classification        |
@@ -36,4 +36,3 @@
 |    | 4/14/2021  | 23. Hive     |
 | 15 | 4/19/2021  | 24. Apache Spark    |
 |    | 4/21/2021  | 25. Apache Spark    |
-| 16 |            | Final Exam          |
