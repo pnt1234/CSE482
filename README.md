@@ -49,8 +49,8 @@ A tentative class schedule can be found [here](https://pnt1234.github.io/CSE482/
 
 ### Course Assessment:
 Students will be assessed based on the following:
-- Homework (55%)
-- Programming exercises (25%)
+- Homework (50%)
+- Weekly exercises (30%)
 - Mini-Project (10%)
 - Exam (10%)
 
@@ -72,7 +72,7 @@ Note that the scheduled online lectures will begin on Jan 20. There are no onlin
 ### Course Policies:
 
 - **Attendance and Participation:** Although the lectures are recorded, students are expected to attend the online lectures synchronously and must inform the instructor if they are unable to do so due to emergency or other legitimate reasons. Students are expected to participate in all online activities for the course as listed on the course syllabus and calendar. The instructor will monitor student participation in the class using D2L and zoom tracking tools to assess their level of participation.
-- **Programming Exercises:** Programming exercises are due on Fridays before midnight. These are short exercises that require you to write short programs based on the examples shown in class. The goal of the programming exercises is to help you get familiarize with the tools/programming languages used in the class. Only the top-10 highest scores from the programming exercises will be used to compute your final grade. 
+- **Weekly Exercises:** Weekly exercises are due on Fridays before midnight. These are short questions that require you to write programs based on the examples shown in class. The goal of these exercises is to help you get familiarize with the tools/programming languages used in the class. Only the top-10 highest scores from the exercises will be used to compute your final grade. 
 - **Assignment and Late Submission Policy:** Homework assignments are due before midnight on the due date unless specified otherwise.  You must use [D2L](http://d2l.msu.edu) to submit a soft copy of your solution. Late assignments will be penalized 25% of the total possible assignment grade (if submitted the next day after the deadline) or 50% (if submitted the second day after the deadline). Assignments submitted later than that will not be accepted.
 - **Exam Information:** An online exam will be given during the semester. The exam will be open book and notes. Students must make arrangements to take the exam synchronously via zoom. You need to have a second camera available (e.g., from your phone) to display your computer screen during the exam. Make-up examination can be arranged if your absence is due to conference travel, documented illness, personal emergency, or if your location prohibits doing the exam in synchronous mode. A written explanation (including supporting documentation) must be submitted to the instructor; if the explanation is acceptable, an alternative to the examination will be arranged. Except for emergency cases, make-up arrangements must be made in advance, at least a week before the scheduled exam. 
 - **Discussion Forum:** We will be using [Piazza](https://piazza.com/msu/spring2021/cse482/home) for class discussion. Rather than emailing class-related questions to the instructor and TA, you are strongly encouraged to post them on Piazza. However, do not post your solution or attempted solution (e.g., for programming exercises, assignments or project) on Piazza. 
