@@ -16,19 +16,19 @@
 |    | 2/3/2021  | 5.  Data preprocessing | 
 | 5  | 2/8/2021   | 6. Data preprocessing |
 |    | 2/10/2021   | 7. Data exploration  |
-| 6  | 2/15/2021  | 8. Hadoop (introduction)        |
-|    | 2/17/2021  | 9. Hadoop programming concepts  |
-| 7  | 2/22/2021  | 10. Hadoop programming examples  |
-|    | 2/24/2021  | 11. Hadoop streaming  |
-| 8  | 3/1/2021  | Exam  | 
-|    | 3/3/2021  | No class      |
-| 9  | 3/8/2021   | 12. Regression analysis   |
-|    | 3/10/2021  | 13. Classification        |
-| 10 | 3/15/2021  | 14. Classification        |
-|    | 3/17/2021  | 15. Cluster Analysis      |
-| 11 | 3/22/2021  | 16. Association Analysis  |
-|    | 3/24/2021  | 17. Anomaly Detection     |
-| 12 | 3/29/2021  | 18. Collaborative Filtering  |
+| 6  | 2/15/2021  | 8. Regression analysis |
+|    | 2/17/2021  | 9. Classification  |
+| 7  | 2/22/2021  | 10. Classification  |
+|    | 2/24/2021  | 11. Cluster Analysis   |
+| 8  | 3/1/2021  | 12. Association Analysis  | 
+|    | 3/3/2021  | No class    |
+| 9  | 3/8/2021   | Exam   |
+|    | 3/10/2021  | 13. Anomaly Detection |
+| 10 | 3/15/2021  | 14.  Collaborative Filtering       |
+|    | 3/17/2021  | 15. Hadoop (introduction)      |
+| 11 | 3/22/2021  | 16. Hadoop programming concepts  |
+|    | 3/24/2021  | 17. Hadoop programming examples |
+| 12 | 3/29/2021  | 18. Hadoop streaming  |
 |    | 3/31/2021  | 19. Pig Latin     |
 | 13 | 4/5/2021   | 20. Pig Latin     |
 |    | 4/7/2021   | 21. SQL      | 
