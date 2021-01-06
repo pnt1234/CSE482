@@ -6,8 +6,8 @@
 
 | Week |  Dates   |    Topics       |
 |------|:---------|-----------------|
-| 1  | 1/11/2021  | No class (Background Review) |
-|    | 1/13/2021  | No class (Background Review) | 
+| 1  | 1/11/2021  | No class (Review Week) |
+|    | 1/13/2021  | No class (Review Week) | 
 | 2  | 1/18/2021  | No class (MLK day) | 
 |    | 1/20/2021  | 1. Introduction  |
 | 3  | 1/25/2021  | 2. Data and Representation |
@@ -21,8 +21,8 @@
 | 7  | 2/22/2021  | 10. Classification  |
 |    | 2/24/2021  | 11. Cluster Analysis   |
 | 8  | 3/1/2021  | 12. Association Analysis  | 
-|    | 3/3/2021  | No class    |
-| 9  | 3/8/2021   | Exam   |
+|    | 3/3/2021  | No class |
+| 9  | 3/8/2021   | Exam    |
 |    | 3/10/2021  | 13. Anomaly Detection |
 | 10 | 3/15/2021  | 14.  Collaborative Filtering       |
 |    | 3/17/2021  | 15. Hadoop (introduction)      |
