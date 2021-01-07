@@ -22,9 +22,9 @@
 |    | 2/24/2021  | 11. Cluster Analysis   |
 | 8  | 3/1/2021  | 12. Association Analysis  | 
 |    | 3/3/2021  | No class |
-| 9  | 3/8/2021   | Exam    |
-|    | 3/10/2021  | 13. Anomaly Detection |
-| 10 | 3/15/2021  | 14.  Collaborative Filtering       |
+| 9  | 3/8/2021   | 13. Anomaly Detection    |
+|    | 3/10/2021  | 14. Collaborative Filtering |
+| 10 | 3/15/2021  | Exam |
 |    | 3/17/2021  | 15. Hadoop (introduction)      |
 | 11 | 3/22/2021  | 16. Hadoop programming concepts  |
 |    | 3/24/2021  | 17. Hadoop programming examples |
